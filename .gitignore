@@ -21,3 +21,5 @@ __pycache__/
 
 # Local infrastructure inventory
 scripts/*.local.csv
+
+scripts/pam_precheck_results.json
