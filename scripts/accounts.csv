@@ -1,0 +1,3 @@
+name,username,address,safe,platform
+Linux Administrator,pamadmin,10.0.1.10,UNIX-ADMIN-SAFE,Unix
+Windows Administrator,winadmin,10.0.2.10,WIN-ADMIN-SAFE,Windows
