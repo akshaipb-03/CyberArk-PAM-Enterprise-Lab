@@ -23,3 +23,5 @@ __pycache__/
 scripts/*.local.csv
 
 scripts/pam_precheck_results.json
+
+scripts/pam_operations_audit.json
